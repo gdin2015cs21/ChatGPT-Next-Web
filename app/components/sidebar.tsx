@@ -123,6 +123,7 @@ export function SideBar(props: { className?: string }) {
           <a href="https://www.aiahz.com/">首页</a><br/>
           <a href="https://www.aiahz.com/community/">社区</a><br/>
           <a href="https://www.aiahz.com/contactus/">微信群</a>
+          <a href="https://www.aiahz.com/gpt4/">免费gpt4</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />

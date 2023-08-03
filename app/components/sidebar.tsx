@@ -122,7 +122,8 @@ export function SideBar(props: { className?: string }) {
         <div className={styles["sidebar-sub-title"]}>
           <a href="https://www.aiahz.com/" target="_blank">首页</a>&nbsp;
           <a href="https://www.aiahz.com/community/" target="_blank">社区</a>&nbsp;
-          <a href="https://www.aiahz.com/contactus/" target="_blank">微信群</a>
+          <a href="https://www.aiahz.com/contactus/" target="_blank">微信群</a>&nbsp;
+          <a href="https://www.aiahz.com/gpt4/" target="_blank">免费ChatGPT4</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />

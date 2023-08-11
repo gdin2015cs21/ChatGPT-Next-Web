@@ -123,7 +123,7 @@ export function SideBar(props: { className?: string }) {
           <a href="https://www.aiahz.com/" target="_blank">首页</a>&nbsp;
           <a href="https://www.aiahz.com/community/" target="_blank">社区</a>&nbsp;
           <a href="https://www.aiahz.com/contactus/" target="_blank">微信群</a>&nbsp;
-          <a href="https://www.aiahz.com/chatgpt4/" target="_blank">ChatGPT4</a>
+          <a href="https://www.aiahz.com/chatgpt4/" target="_blank">ChatGPT4</a>&nbsp;
           <a href="https://www.aiahz.com/chatgpt3" target="_blank">ChatGPT3(备用)</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>

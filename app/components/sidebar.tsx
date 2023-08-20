@@ -117,14 +117,13 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          AI爱好者
+          ChatGPT免费对话框
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          <a href="https://www.aiahz.com/" target="_blank">首页</a>&nbsp;
+          友情链接&nbsp;
+          <a href="https://www.aiahz.com/" target="_blank">AI爱好者</a>&nbsp;
           <a href="https://www.aiahz.com/community/" target="_blank">社区</a>&nbsp;
           <a href="https://www.aiahz.com/contactus/" target="_blank">微信群</a>&nbsp;
-          <a href="https://www.aiahz.com/chatgpt4/" target="_blank">ChatGPT4</a>&nbsp;
-          <a href="https://www.aiahz.com/chatgpt3" target="_blank">ChatGPT3(备用)</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
